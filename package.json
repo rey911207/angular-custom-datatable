@@ -22,6 +22,10 @@
     "@angular/platform-browser": "~10.2.4",
     "@angular/platform-browser-dynamic": "~10.2.4",
     "@angular/router": "~10.2.4",
+    "@generic-ui/fabric": "^0.13.0",
+    "@generic-ui/hermes": "^0.13.0",
+    "@generic-ui/ngx-grid": "^0.13.0",
+    "element-resize-detector": "^1.1.14",
     "rxjs": "~6.5.4",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
