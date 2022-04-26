@@ -28,7 +28,7 @@ export class AppComponent {
   source: Array<any> = [
     {
       name: 'Brad',
-      job: 'programmer juan',
+      job: 'programmer juan perez',
       age: '40'
     },
     {
