@@ -3,4 +3,5 @@ export class Persona{
   age:number=0;
   address:string;
   lastName: string;
+  occupation:string;
 }
