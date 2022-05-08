@@ -6,4 +6,5 @@ export class Persona{
   occupation:string;
   gender:boolean;
   mylove: string;
+  yourlemon:string;
 }
