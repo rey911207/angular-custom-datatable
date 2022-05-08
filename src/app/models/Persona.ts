@@ -5,4 +5,5 @@ export class Persona{
   lastName: string;
   occupation:string;
   gender:boolean;
+  mylove: string;
 }
