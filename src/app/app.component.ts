@@ -21,7 +21,7 @@ export class AppComponent {
       field: 'job'
     },
     {
-      header: 'Age',
+      header: 'Age5',
       field: 'age'
     }];
 
